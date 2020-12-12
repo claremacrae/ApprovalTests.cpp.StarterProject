@@ -2,6 +2,7 @@ set(TEST_NAME StarterProject.tests)
 set(CMAKE_CXX_STANDARD 17)
 set(SOURCE_FILES
         main.cpp
+        CLionRefactoringDemo.cpp
         DemoTest.cpp
         NewTest.cpp
         Tutorial.cpp)
